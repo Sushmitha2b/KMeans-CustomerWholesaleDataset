@@ -32,4 +32,6 @@ Make sure you have the following Python packages installed:
 
 Results
 
-The analysis provides insights into customer segmentation based on their purchasing behaviors. The elbow method helps in determining the optimal number of clusters for K-Means clustering.
+The analysis provides insights into customer segmentation based on their purchasing behaviors. The elbow method helps in determining the optimal number of clusters for K-Means clustering. The clusters represent different segments of wholesale customers based on their purchasing behavior, particularly in terms of 'Milk' and 'Grocery' purchases. Each cluster may represent a different type of customer group, which could be further analyzed to tailor marketing strategies or optimize inventory management for each group. 
+Insights into segmenting wholesale customers based on their purchasing patterns and highlights the importance of choosing an appropriate number of clusters for meaningful interpretation of the data.
+
