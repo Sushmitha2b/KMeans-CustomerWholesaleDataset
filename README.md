@@ -19,7 +19,7 @@ Project Overview
 Files
 
 	•	Wholesale_customers_data.csv: The input dataset.
-	•	kmeans_clustering.py: The main Python script that performs data processing, clustering, and visualization.
+	•	kmeans_clustering.ipynb: The main Python script that performs data processing, clustering, and visualization.
 
 Requirements
 
