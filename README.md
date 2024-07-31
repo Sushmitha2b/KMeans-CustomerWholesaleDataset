@@ -5,16 +5,16 @@ This project involves applying K-Means clustering to a dataset of wholesale cust
 Project Overview
 
 	1.	Data Loading and Preprocessing:
-	•	Load the dataset using pandas.
-	•	Check for missing values and basic statistics.
+		•	Load the dataset using pandas.
+		•	Check for missing values and basic statistics.
 	2.	Data Standardization:
-	•	Standardize the data using StandardScaler from sklearn.
+		•	Standardize the data using StandardScaler from sklearn.
 	3.	K-Means Clustering:
-	•	Perform clustering with K-Means for different numbers of clusters.
-	•	Evaluate the clustering performance using the elbow method.
+		•	Perform clustering with K-Means for different numbers of clusters.
+		•	Evaluate the clustering performance using the elbow method.
 	4.	Visualization:
-	•	Visualize clusters for different numbers of clusters (3, 4, and 6).
-	•	Scatter plots of ‘Milk’ vs. ‘Grocery’ with cluster labels.
+		•	Visualize clusters for different numbers of clusters (3, 4, and 6).
+		•	Scatter plots of ‘Milk’ vs. ‘Grocery’ with cluster labels.
 
 Files
 
